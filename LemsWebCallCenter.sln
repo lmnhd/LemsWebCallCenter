@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemsWebCallCenter", "LemsWebCallCenter\LemsWebCallCenter.csproj", "{EFE2CD85-1821-45FF-B40E-EA8108678836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterTester", "CallCenterTester\CallCenterTester.csproj", "{C8B9B33A-9064-4CB1-970A-8A48AE8D3893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudioBContext", "..\UntameMusic2014\StudioBContext\StudioBContext.csproj", "{D88B0580-457C-4E2E-A758-6AB395348057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE2CD85-1821-45FF-B40E-EA8108678836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE2CD85-1821-45FF-B40E-EA8108678836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE2CD85-1821-45FF-B40E-EA8108678836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE2CD85-1821-45FF-B40E-EA8108678836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B9B33A-9064-4CB1-970A-8A48AE8D3893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B9B33A-9064-4CB1-970A-8A48AE8D3893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B9B33A-9064-4CB1-970A-8A48AE8D3893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B9B33A-9064-4CB1-970A-8A48AE8D3893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88B0580-457C-4E2E-A758-6AB395348057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88B0580-457C-4E2E-A758-6AB395348057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88B0580-457C-4E2E-A758-6AB395348057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88B0580-457C-4E2E-A758-6AB395348057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
